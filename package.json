@@ -1,0 +1,23 @@
+{
+  "name": "activity4",
+  "version": "1.0.0",
+  "description": "1.  Puppeteer1.js:\r             This project used puppeteer to automate the task of \r             adding the top searched laptop product from flipkart \r             website and adds it to the cart:\r             it does the following:\r             - opens chromium\r             - types flipkart on google search\r             - opens flipkart\r             - searches for 'laptop' and selects the top result\r             - adds the top result to the cart\r     2.  puppeteer2.js\r             This project automates visitng the pepcoding website\r             implements the script to open resources webpage and \r             consequently opens a course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pupeteer": "0.0.1",
+    "puppeteer": "^10.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyaanshMalik/automate-pupeteer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/priyaanshMalik/automate-pupeteer/issues"
+  },
+  "homepage": "https://github.com/priyaanshMalik/automate-pupeteer#readme"
+}
